@@ -1,9 +1,9 @@
 ### Hi, I'm Hoàng Tấn 👋
-
+<a href="https://app.daily.dev/ithoangtan"><img src="https://api.daily.dev/devcards/063bce113b7a4d2ca069e7be5f079c70.png?r=pu8" width="400" alt="Hoàng Tấn's Dev Card"/></a>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ithoangtan&bg_color=90,30cfd0,330867&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ithoangtan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/ithoangtan"><img src="https://api.daily.dev/devcards/063bce113b7a4d2ca069e7be5f079c70.png?r=pu8" width="400" alt="Hoàng Tấn's Dev Card"/></a>
+
 
 
 <!--
