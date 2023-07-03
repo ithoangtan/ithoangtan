@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ithoangtan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+![Alt](https://repobeats.axiom.co/api/embed/dbbb477b623b770f0b6d3e706e125b0d542b99b1.svg "Repobeats analytics image")
 
 <!--
 **ithoangtan/ithoangtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
